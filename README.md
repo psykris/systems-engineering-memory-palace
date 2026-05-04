@@ -8,6 +8,9 @@ Each temple location maps to a Systems Engineering phase from ISO 15288. Explore
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-gold?style=for-the-badge)](https://psykris.github.io/systems-engineering-memory-palace/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+## 🎬 Demo
+<video src="Systems%20Engineering%20Memory%20Palace.mp4" controls width="100%"></video>
+
 
 ---
 
