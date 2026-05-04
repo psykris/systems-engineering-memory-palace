@@ -84,11 +84,11 @@ The Lepakshi Temple works particularly well because:
 - Its walking path follows a natural sequence (entrance → inner chambers → exit)
 - Each location has distinctive architectural features that create strong visual anchors
 - The temple is a real place you can visit (Hindupur, Andhra Pradesh, India)
-- Links to explore 
-[Wikipedia - Veerabhadra Temple - Lepakshi](https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi)
-[Incredible India](https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur/lepakshi-temple)
-[Lepakshi Temple Official Website](https://lepakshitemple.in/)
-[UNESCO Heritage Site Lepakshi](https://whc.unesco.org/en/tentativelists/6607/)
+- Links to explore
+- [Wikipedia - Veerabhadra Temple - Lepakshi](https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi)
+- [Incredible India](https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur/lepakshi-temple)
+- [Lepakshi Temple Official Website](https://lepakshitemple.in/)
+- [UNESCO Heritage Site Lepakshi](https://whc.unesco.org/en/tentativelists/6607/)
 
 
 ## 📝 License
@@ -98,8 +98,8 @@ MIT - use it, fork it, teach with it.
 ## 🙏 Credits
 
 - Temple mapping concept inspired by the Lepakshi Veerabhadra Temple, Hindupur, AP, India
-- Pixel art aesthetic inspired by 16-bit era RPGs and the [Tulasi lyric video](https://www.youtube.com/watch?v=example) by Sumedh K
-- Built with [Claude](https://claude.ai) by Anthropic
+- Inspired by Pixel art aesthetic using 16-bit era RPGs and the [Tulasi lyric video](https://www.youtube.com/watch?v=example) by Sumedh K
+- The Mentalist TV show where I learned what a Memory Palace is for the first time (And then in Sherlock TV series ;))
 
 ---
 
