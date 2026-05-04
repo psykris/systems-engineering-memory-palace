@@ -1,8 +1,8 @@
 # Systems Engineering Memory Palace 🛕
 
-**Learn the V-Model lifecycle by walking through the Lepakshi Temple - a 16th-century Vijayanagara masterpiece in Andhra Pradesh, India.**
-
 A fun interactive 80s game style memory palace with Lepakshi temple as reference. 
+
+Learn the V-Model lifecycle by walking through the Lepakshi Temple - a 16th-century architecture marvel in Andhra Pradesh, India.
 
 Each temple location maps to a Systems Engineering phase from ISO 15288. Explore room by room, answer SE challenges based on real engineering failures, and build bilingual (EN/DE) vocabulary along the way.
 
