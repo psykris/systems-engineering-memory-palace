@@ -98,8 +98,8 @@ MIT - use it, fork it, teach with it.
 ## 🙏 Credits
 
 - Temple mapping concept inspired by the Lepakshi Veerabhadra Temple, Hindupur, AP, India
-- Inspired by Pixel art aesthetic using 16-bit era RPGs and the [Tulasi lyric video](https://www.youtube.com/watch?v=example) by Sumedh K
 - The Mentalist TV show where I learned what a Memory Palace is for the first time (And then in Sherlock TV series ;))
+- And a lot of old video games I used to play as a kid.
 
 ---
 
