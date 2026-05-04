@@ -1,6 +1,6 @@
 # Systems Engineering Memory Palace 🛕
 
-**Learn the V-Model lifecycle by walking through the Lepakshi Temple — a 16th-century Vijayanagara masterpiece in Andhra Pradesh, India.**
+**Learn the V-Model lifecycle by walking through the Lepakshi Temple - a 16th-century Vijayanagara masterpiece in Andhra Pradesh, India.**
 
 A fun interactive 80s game style memory palace with Lepakshi temple as reference. 
 
@@ -13,7 +13,7 @@ Each temple location maps to a Systems Engineering phase from ISO 15288. Explore
 
 ## 🎮 What is this?
 
-An interactive, retro RPG-styled educational tool that teaches the **V-Model Systems Engineering lifecycle** through a **memory palace** technique — mapping abstract engineering processes to physical locations you can mentally walk through.
+An interactive, retro RPG-styled educational tool that teaches the **V-Model Systems Engineering lifecycle** through a **memory palace** technique - mapping abstract engineering processes to physical locations you can mentally walk through.
 
 | Temple Location | SE Phase | V-Side |
 |---|---|---|
@@ -29,15 +29,15 @@ An interactive, retro RPG-styled educational tool that teaches the **V-Model Sys
 ## ✨ Features
 
 - **Pixel art scenes** for each temple location (SVG-based, no image files)
-- **Global EN/DE language toggle** — every label, briefing, quiz, and term switches
+- **Global EN/DE language toggle** - every label, briefing, quiz, and term switches
 - **Side quest challenges** based on real SE failures (Mars Climate Orbiter, Therac-25, Mars Polar Lander)
 - **SE Sensei glossary** with bilingual terminology at each location
 - **V-Model linkage** showing how each phase connects to its verification pair
 - **8-bit chiptune soundtrack** (Web Audio API, no external files) with 3-level volume control
 - **Progress tracking** across all 8 locations
-- **Print companion** — clean A4 reference sheet via browser print
-- **Fully self-contained** — single HTML file, no build tools, no dependencies
-- **Responsive** — works on mobile, tablet, and desktop
+- **Print companion** - clean A4 reference sheet via browser print
+- **Fully self-contained** - single HTML file, no build tools, no dependencies
+- **Responsive** - works on mobile, tablet, and desktop
 
 ## 🚀 Try it
 
@@ -67,14 +67,14 @@ That's it. No `npm install`. No build step. One HTML file.
 
 ## 🎓 SE Standards Covered
 
-- **ISO 15288** — System Life Cycle Processes
-- **V-Modell XT** — German government IT procurement lifecycle
-- **IEEE 29148** — Requirements Engineering
-- **ARP 4754A** — Aircraft/System Development Processes
-- **IREB CPRE** — Requirements Engineering certification body of knowledge
-- **EARS** — Easy Approach to Requirements Syntax
-- **FMEA / HARA** — Failure Mode and Hazard Analysis
-- **SysML / SAF** — Model-Based Systems Engineering
+- **ISO 15288** - System Life Cycle Processes
+- **V-Modell XT** - German government IT procurement lifecycle
+- **IEEE 29148** - Requirements Engineering
+- **ARP 4754A** - Aircraft/System Development Processes
+- **IREB CPRE** - Requirements Engineering certification body of knowledge
+- **EARS** - Easy Approach to Requirements Syntax
+- **FMEA / HARA** - Failure Mode and Hazard Analysis
+- **SysML / SAF** - Model-Based Systems Engineering
 
 ## 🧠 Why a Memory Palace?
 
@@ -93,7 +93,7 @@ The Lepakshi Temple works particularly well because:
 
 ## 📝 License
 
-MIT — use it, fork it, teach with it.
+MIT - use it, fork it, teach with it.
 
 ## 🙏 Credits
 
