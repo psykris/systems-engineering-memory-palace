@@ -84,6 +84,12 @@ The Lepakshi Temple works particularly well because:
 - Its walking path follows a natural sequence (entrance → inner chambers → exit)
 - Each location has distinctive architectural features that create strong visual anchors
 - The temple is a real place you can visit (Hindupur, Andhra Pradesh, India)
+- Links to explore 
+[Wikipedia - Veerabhadra Temple - Lepakshi](https://en.wikipedia.org/wiki/Veerabhadra_Temple,_Lepakshi)
+[Incredible India](https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur/lepakshi-temple)
+[Lepakshi Temple Official Website](https://lepakshitemple.in/)
+[UNESCO Heritage Site Lepakshi](https://whc.unesco.org/en/tentativelists/6607/)
+
 
 ## 📝 License
 
